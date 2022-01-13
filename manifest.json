@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "My first resource pack Add-On!",
+   "name": "Martin's Resource Pack",
+   "uuid":"71d608c8-079a-4d85-86b0-6b97d87ab54b",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 17, 0]
+  },
+ "modules": [
+   {
+     "description": "My first resource pack Add-On!",
+     "type": "resources",
+     "uuid": "0af87035-3db7-47d0-bb4c-c2326ab5ee78",
+     "version": [1, 0, 0]
+   }
+ ]
+}
